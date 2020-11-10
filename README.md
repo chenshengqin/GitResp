@@ -1,2 +1,2 @@
 # GitResp
-Just a resp that study Git
+First repository for Git study.
