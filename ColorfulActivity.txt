@@ -1,0 +1,11 @@
+ColorfulActivity
+1.TextView-文本显示
+2.RelativeLayout-相关布局
+3.RecyclerView-循环视图
+4.context.startActivity-开始内容显示活动
+5.getLayoutId-获取本布局（将要显示的）的ID
+6.@SuppressLint标注-忽略错误？
+7.抽象类里可以实现部分方法，并非全部都要放到子类中实现
+8.BaseActivity.getStatusBarLightMode()/setStatusBarDarkMode()的用处？type==3时的运行逻辑是什么？
+9.setSystemUiVisibility(int ) 中 | 的用法？-逻辑或-为什么要逻辑或？逻辑或会怎么样？
+10.findViewById(R.id.tv_month_day)中的R代指resources，资源，在这里指activity_colorful.xml中的对应变量
